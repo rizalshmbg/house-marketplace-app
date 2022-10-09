@@ -1,4 +1,4 @@
-# React Basic : House Marketplace App
+# React Project : House Marketplace App
 
 ## Idea : -
 
